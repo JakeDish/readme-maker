@@ -1,3 +1,5 @@
-# Professional README Generator Starter Code
+# README Maker
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+https://drive.google.com/file/d/1TPLJBVLs8VxuQoqE44LeIrkHSE5MgtrV/view
+
+This project exists so as to allow users to quickly and easily create a README file with multiple sections simply by answering a series of questions. Questions are presented in-terminal via node.js and a file is automatically generated after all questions have been answered.
